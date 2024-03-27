@@ -12,7 +12,7 @@ scipy==1.11.3
 jupytext==1.15.2
 
 fastapi==0.103.2
-python-multipart==0.0.6
+python-multipart==0.0.7
 uvicorn==0.23.2
 uvicorn[standard]
 pydantic==2.4.2
